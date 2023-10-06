@@ -1,3 +1,3 @@
 # Sammy's Personal Website
 This is a personal website built using the Hack4Impact Starter Pack!
-Hello World!
+[Visit it Here!](https://<username>.github.io)
